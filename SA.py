@@ -167,7 +167,7 @@ def lovehacker():
 
 	elif Choose == 2:
 		print
-		BlackMafia(C+'Watting vai tumer gf astese '+W+' ...')
+		BlackMafia(C+' vai tumer gf astese'+W+' ...')
 		time.sleep(1.5)
 		os.system('xdg-open https://www.facebook.com/profile.php?id=100069384973642 ')
 		lovehacker()
